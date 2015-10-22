@@ -52,4 +52,3 @@ FileManager.pyのreadFile()を理解しておきましょう
 
 
 
-
