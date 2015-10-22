@@ -1,6 +1,13 @@
 # Python_study_group
 
 ##1:論文ID、タイトル、アブストラクトデータの確認
+※ わからないときは相談するようにしましょう  
+※ 何箇所か真似する場合はコピペではなく書き写しましょう  
+
+
+本家URL  
+<https://github.com/double-y/data_analisis_tutorial>
+
 
 ####TODO  
 ・"git clone"する  
