@@ -20,7 +20,9 @@ if __name__ == "__main__":
 
     print f
 
-
+    #print f[0]
+    #print ""
+    #print f[1]
 
 
 
