@@ -11,6 +11,20 @@
 <https://github.com/double-y/data_analisis_tutorial>
 
 
+※ 各データの説明（伊藤くん作）  
+>mission.facet.2.tsv：俯瞰システム内で分析を行ったクラスタ２（ニューラルネットワーク関連のクラスタ）の論文データ  
+>（ID:"&underscore;N"列，タイトル:"TI"列，アブストラクト:"AB"列）  
+
+>mission.pairs.tsv：論文IDによる引用関係を示したデータ（引用した論文¥t引用された論文）
+
+>selected&underscore;pairs.tsv：mission.pairs.tsvのうち，クラスタ２に含まれている論文の引用関係を示したもの
+
+>NLPパートでは, mission.facet.2.tsvを用いてください
+>networkxパートでは, mission.pairs.tsvを用いてください
+>分析パートでは, networkxパートで作成した隣接行列を作る関数の入力をselected&underscore;pairs.tsvに置き換え, クラスタ2の引用ネットワークを作成する点に注意をしてください
+
+
+
 
 ####TODO  
 ・"git clone"する  
