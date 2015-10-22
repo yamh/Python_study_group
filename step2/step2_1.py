@@ -5,7 +5,7 @@ import sys
 from FileManager import FileManager
 
 ROOT = os.path.abspath(os.path.dirname(__file__))
-TSVDIR = ROOT.replace("/step1", "/tsvdata/")
+TSVDIR = ROOT.replace("/step2", "/tsvdata/")
 
 
 # タイトルとアブストラクトを結合させて、論文ID\tタイトル\tアブストラクトの文書を作る関数
@@ -39,6 +39,9 @@ if __name__ == "__main__":
     #"関数の呼び出し、結合した情報の取得"
     texts = merge_doc(f)
 
+    #"作成したtextsの中身確認"
+    print texts[0]
+    print texts[1]
 
 
 
