@@ -19,9 +19,9 @@
 
 >selected\_pairs.tsv：mission.pairs.tsvのうち，クラスタ２に含まれている論文の引用関係を示したもの
 
->NLPパートでは, mission.facet.2.tsvを用いてください
->networkxパートでは, mission.pairs.tsvを用いてください
->分析パートでは, networkxパートで作成した隣接行列を作る関数の入力をselected\_pairs.tsvに置き換え, クラスタ2の引用ネットワークを作成する点に注意をしてください
+>NLPパートでは, mission.facet.2.tsvを用いてください  
+>networkxパートでは, mission.pairs.tsvを用いてください  
+>分析パートでは, networkxパートで作成した隣接行列を作る関数の入力をselected\_pairs.tsvに置き換え, クラスタ2の引用ネットワークを作成する点に注意をしてください  
 
 
 
