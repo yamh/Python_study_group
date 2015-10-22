@@ -1,7 +1,7 @@
 # Step1:データの確認
 
 ###1:FileManagerの確認
-FileManager.py（伊藤くん作）を確認しましょう  
+FileManager.py（伊藤作）を確認しましょう  
 最初はわからない部分が多いと思うので、さらっと見るだけで大丈夫です  
 
 ####step1\_1.py
